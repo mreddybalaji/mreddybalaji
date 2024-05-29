@@ -29,8 +29,8 @@ Let's Connect and have a Chat!💬
 
 
 - 👀 I’m interested in `Embedded Systems`.
-- 🌱 I’m currently learning `RISC-V` Embedded and VLSi
-- 📫 Reach me  m.reddybalaji01@gmail.com
+- 🌱 I’m currently learning `RISC-V` Embedded and VLSI.
+- 📫 Reach me on m.reddybalaji01@gmail.com.
 
 
 
