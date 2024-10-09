@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/m-reddy/">
+  <a href="https://www.linkedin.com/in/reddy-balaji-m/">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png" alt="LinkedIn" style="margin: 0 10px;"/>
   </a>
   <a href="https://medium.com/@m.reddybalaji01">
