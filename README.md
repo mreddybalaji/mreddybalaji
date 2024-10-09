@@ -29,9 +29,32 @@
 
 
 
-- 👀 I’m interested in `Embedded Systems`.
-- 🌱 I’m currently learning `RISC-V` Embedded and VLSI.
-- 📫 Reach me on m.reddybalaji01@gmail.com.
+## 👨‍💻 About Me
+
+- 🎓 **Education**: BTech 4th year, specializing in Embedded Systems and Firmware Development
+- 💼 **Internship**: Embedded Firmware Intern at Arka Aerospace until November 2024
+- 🔭 **Interests**: Developing Embedded Systems, Firmware, VLSI, and IoT projects
+- 🌱 **Currently Learning**: RISC-V, VLSI, and expanding my knowledge in IoT solutions
+- 👯 **Looking to collaborate** on projects related to Embedded Systems and Firmware Development
+
+## 🛠️ Skills & Tools
+
+- **Programming Languages**: C, Python, Embedded C
+- **Microcontrollers/Platforms**: ESP32, STM32, Arduino
+- **Tools**: Keil, GCC, FreeRTOS, PlatformIO
+- **Protocols**: I2C, SPI, UART, TCP/IP, UDP
+- **Version Control**: Git, GitHub
+
+## 🚀 Featured Projects
+
+
+
+## 📫 Reach Me
+
+- 📧 Email: m.reddybalaji01@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/reddy-balaji-m/)
+- 📝 [Medium](https://medium.com/@m.reddybalaji01)
+- 📹 [YouTube](https://www.youtube.com/@reddybalajimejari-gi7px)
 
 
 
