@@ -31,8 +31,8 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **Education**: BTech 4th year, specializing in Embedded Systems and Firmware Development
-- 💼 **Internship**: Embedded Firmware Intern at Arka Aerospace until November 2024
+- 🎓 **Education**: BTech 4th year, ECE
+- 💼 **Internship**: Embedded Firmware Intern at Arka Aerospace
 - 🔭 **Interests**: Developing Embedded Systems, Firmware, VLSI, and IoT projects
 - 🌱 **Currently Learning**: RISC-V, VLSI, and expanding my knowledge in IoT solutions
 - 👯 **Looking to collaborate** on projects related to Embedded Systems and Firmware Development
