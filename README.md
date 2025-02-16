@@ -40,7 +40,7 @@
 ## 🛠️ Skills & Tools
 
 - **Programming Languages**: C, Python, Embedded C
-- **Microcontrollers/Platforms**: ESP32, STM32, Arduino
+- **Microcontrollers/Platforms**: Espressif, STM, Arduino
 - **Tools**: Keil, GCC, FreeRTOS, PlatformIO
 - **Protocols**: I2C, SPI, UART, TCP/IP, UDP
 - **Version Control**: Git, GitHub
