@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%230000FF&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile!;I'm+an+Embedded+Firmware+Developer!;Let's+connect+%F0%9F%91%8B" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%230000FF&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile!;I'm+an+Firmware+Developer!;Let's+connect+%F0%9F%91%8B" />
 </p>
 
 
