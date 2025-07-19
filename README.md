@@ -40,14 +40,16 @@
 ## 🛠️ Skills & Tools
 
 - **Programming Languages**: C, Python, Embedded C
-- **Microcontrollers/Platforms**: Espressif, STM, Arduino
-- **Tools**: Keil, GCC, FreeRTOS, PlatformIO
-- **Protocols**: I2C, SPI, UART, TCP/IP, UDP
+- **Microcontrollers/Devices**: Xilinx RFSoC, Espressif, STM 
+- **Tools**: Vivado Design Suite, GCC, FreeRTOS
+- **Protocols**: I2C, SPI, UART,Pynq, TCP/IP, UDP
 - **Version Control**: Git, GitHub
 
 ## 🚀 Featured Projects
+FPGA-Based Implementation of a 5-Stage Pipelined RISC-V Processor Using Xilinx Zynq-7000
 
-
+## 🚀🚀 Ongoing Projects
+AMBA Protocol on FPGA, Digital Filters, Telematics Platform CAN
 
 ## 📫 Reach Me
 
