@@ -32,8 +32,8 @@
 ## 👨‍💻 About Me
 
 - 🎓 **Education**: BTech 4th year, ECE
-- 💼 **Role**: Firmware Developer at Arka Aerospace
-- 🔭 **Interests**: Developing Embedded Systems, Firmware, VLSI, and IoT projects
+- 💼 **Role**: Firmware Developer
+- 🔭 **Interests**: Developing Embedded Systems, Firmware, Radar DSP projects
 - 🌱 **Currently Learning**: RISC-V, VLSI, and expanding my knowledge in IoT solutions
 - 👯 **Looking to collaborate** on projects related to Embedded Systems and Firmware Development
 
