@@ -31,18 +31,18 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **Education**: BTech 4th year, ECE
+- 🎓 **Education**: ECE, B.Tech
 - 💼 **Role**: Firmware Developer
-- 🔭 **Interests**: Developing Embedded Systems, Firmware, Radar DSP projects
-- 🌱 **Currently Learning**: RISC-V, VLSI, and expanding my knowledge in IoT solutions
+- 🔭 **Interests**: Developing Embedded Systems, Firmware, DSP projects
+- 🌱 **Currently Learning**: RISC-V, VLSI, and expanding my knowledge in custom firmware solutions
 - 👯 **Looking to collaborate** on projects related to Embedded Systems and Firmware Development
 
 ## 🛠️ Skills & Tools
 
-- **Programming Languages**: C, Python, Embedded C
-- **Microcontrollers/Devices**: Xilinx RFSoC, Espressif, STM 
+- **Programming Languages**: C, C++, Python and Verilog
+- **Microcontrollers/Devices**: Xilinx , STM 
 - **Tools**: Vivado Design Suite, GCC, FreeRTOS
-- **Protocols**: I2C, SPI, UART,Pynq, TCP/IP, UDP
+- **Protocols**: AMBA, AXI, SPI, I2C
 - **Version Control**: Git, GitHub
 
 ## 🚀 Featured Projects
@@ -53,7 +53,6 @@ AMBA Protocol on FPGA, Digital Filters, Telematics Platform CAN
 
 ## 📫 Reach Me
 
-- 📧 Email: m.reddybalaji01@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/reddy-balaji-m/)
 - 📝 [Medium](https://medium.com/@m.reddybalaji01)
 - 📹 [YouTube](https://www.youtube.com/@reddybalajimejari-gi7px)
