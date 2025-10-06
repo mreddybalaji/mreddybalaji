@@ -41,7 +41,7 @@
 
 - **Programming Languages**: C, C++, Python and Verilog
 - **Microcontrollers/Devices**: Xilinx , STM 
-- **Tools**: Vivado Design Suite, GCC, FreeRTOS
+- **Tools**: Vivado Design Suite, STMCubeIDE, GCC, FreeRTOS
 - **Protocols**: AMBA, AXI, SPI, I2C
 - **Version Control**: Git, GitHub
 
