@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/reddy-balaji-m/">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png" alt="LinkedIn" style="margin: 0 10px;"/>
   </a>
-  <a href="https://medium.com/@m.reddybalaji01">
+  <a href="https://medium.com/@mreddybalaji">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png" alt="Medium" style="margin: 0 10px;"/>
   </a>
   <a href="https://www.youtube.com/@reddybalajimejari-gi7px">
@@ -54,7 +54,7 @@ AMBA Protocol on FPGA, Digital Filters, Telematics Platform CAN
 ## 📫 Reach Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/reddy-balaji-m/)
-- 📝 [Medium](https://medium.com/@m.reddybalaji01)
+- 📝 [Medium](https://medium.com/@mreddybalaji)
 - 📹 [YouTube](https://www.youtube.com/@reddybalajimejari-gi7px)
 
 
